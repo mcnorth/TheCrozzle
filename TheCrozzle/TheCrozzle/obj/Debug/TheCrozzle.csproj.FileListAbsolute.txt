@@ -1,0 +1,9 @@
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\bin\Debug\TheCrozzle.exe.config
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\bin\Debug\TheCrozzle.exe
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\bin\Debug\TheCrozzle.pdb
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\obj\Debug\TheCrozzle.csprojResolveAssemblyReference.cache
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\obj\Debug\TheCrozzle.Form1.resources
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\obj\Debug\TheCrozzle.Properties.Resources.resources
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\obj\Debug\TheCrozzle.csproj.GenerateResource.Cache
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\obj\Debug\TheCrozzle.exe
+D:\Kellie Personal Docs\Repo\TheCrozzle\TheCrozzle\obj\Debug\TheCrozzle.pdb
